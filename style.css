@@ -94,10 +94,14 @@ font-family: 'Sarala', sans-serif;
    color: #2F2325;
  }
 
+ .conteudo-principal-escrito-botao  a {
+   color: #2F2325;
+ }
+
  .conteudo-principal-escrito-botao:hover {
    background-color: rgba(236, 214, 196, 0.53);
    cursor: pointer;
-   
+   transform: translate(-3px, -3px);
    
  }
 
